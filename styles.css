@@ -21,6 +21,12 @@
     background-color: #FFD580;
 }
 
-.soupIngred{
+.soupSubtitle{
+    background-color: #C4A484;
+    margin: 0px;
+}
+.soupContent{
+    background-color: #FFFFE0;
+    margin: 0px;
     color: red;
 }
